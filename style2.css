@@ -18,3 +18,20 @@ margin: 30px;
 display: block;
 margin: 30px;
 }
+ul{
+	list-style-position:inside;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+Hilary Clinton{
+display: block;
+margin: 30px;
+}
